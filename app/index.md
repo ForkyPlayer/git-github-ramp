@@ -9,10 +9,6 @@ Welcome to _Onlyrics_, the only place on the planet where your ears won't be dis
 
 [505](song/feb/505.md)
 
-### [Jhon Lennon](writer/john_lennon.md) |
-
-[Imagine](song/jan/vanilla-panna-cotta.md)
-
 ### [Queen](writer/queen.md) |
 
 [Another one bites the dust](song/feb/Another_one_bites_the_dust.md)
