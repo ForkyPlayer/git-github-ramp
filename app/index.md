@@ -8,7 +8,7 @@ Welcome to _Onlyrics_, the only place on the planet where your ears won't be dis
 
 ### [Arctic Monkeys](/writer/arctic_monkeys.md) |
 
-[Fluorescent Adolescent](song/jan/fluorescent_adolescent.md)
+[505](song/feb/505.md)
 
 ### [Jhon Lennon](writer/john_lennon.md) |
 
@@ -16,7 +16,7 @@ Welcome to _Onlyrics_, the only place on the planet where your ears won't be dis
 
 ### [Queen](writer/queen.md) |
 
-[We Are The Champions](song/jan/we_are_the_champions.md)
+[Another one bites the dust](song/feb/Another_one_bites_the_dust.md)
 
 ### [The Killers](writer/the_killers) |
 
